@@ -122,8 +122,9 @@ const Products = () => {
                 <input className="checkbox" type="checkbox" />
               </li>
               <li className="items li2">{product.id}</li>
-              <li className="items li3">{product.firstName}</li>
               <li className="items ">{product.lastName}</li>
+
+              <li className="items li3">{product.firstName}</li>
               <li className="items">{product.groups} </li>
 
               <li className="items li7">
