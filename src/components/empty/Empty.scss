@@ -1,0 +1,39 @@
+.empty {
+  width: 1119px;
+  height: 548px;
+
+  &__wrapper {
+    padding: 15px;
+    width: 1119px;
+    height: 548px;
+    text-align: center;
+    background-color: #fff;
+  }
+  &__title {
+    color: #212121;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 72%; /* 15.12px */
+  }
+
+  &__btns {
+    margin-top: 100px;
+  }
+  &__btn {
+    border: 0px;
+    border-radius: 6px;
+    background: #1bc58d;
+    padding: 15px 24px;
+    color: white;
+    color: #fff;
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+}

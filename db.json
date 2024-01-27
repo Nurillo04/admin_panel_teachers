@@ -1,0 +1,31 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "Qaxxorov",
+      "lastName": "Rahmatillo",
+      "groups": "N 32"
+    },
+    {
+      "id": 2,
+      "firstName": "Ahmadaliyev",
+      "lastName": "Dilshod",
+      "groups": "N 25"
+    },
+    {
+      "id": 3,
+      "firstName": "Muhammedov",
+      "lastName": "Jahongir",
+      "groups": "N 23"
+    },
+    {
+      "id": 4,
+      "firstName": "Salaydinov",
+      "lastName": "Kozim",
+      "groups": "N 8"
+    }
+  ],
+  "total": 100,
+  "skip": 0,
+  "limit": 30
+}
